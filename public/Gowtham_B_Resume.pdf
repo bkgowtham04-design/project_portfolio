@@ -1,10 +1,107 @@
 %PDF-1.4
-% Gowtham B - Full Stack Developer (MERN) Resume
 1 0 obj
-<< /Title (Gowtham B - Full Stack Developer Resume)
-   /Author (Gowtham B)
->>
+<< /Type /Catalog /Pages 2 0 R >>
 endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3986 >>
+stream
+BT /F2 20 Tf 1 0 0 1 220 800 Tm (GOWTHAM B) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 95 784 Tm (Full Stack Developer \(MERN\) | React.js | Node.js | JavaScript | TypeScript) Tj ET
+BT /F1 9 Tf 1 0 0 1 85 771 Tm (Chennai, Tamil Nadu, India  |  +91 8072907441  |  bkgowtham04@gmail.com) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 50 758 Tm (GitHub: github.com/bkgowtham04-design  |  LinkedIn: linkedin.com/in/gowtham-b-749906376/) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 160 746 Tm (Portfolio: https://project-portfolio-phi-seven.vercel.app/) Tj ET
+BT /F2 10.5 Tf 1 0 0 1 45 731 Tm (PROFESSIONAL SUMMARY) Tj ET
+0.8 w 0.2 0.2 0.2 RG 45 727 m 550 727 l S
+BT /F1 8.5 Tf 1 0 0 1 45 714 Tm (BCA graduate and entry-level Full Stack Developer \(MERN\) skilled in JavaScript \(ES6+\) and TypeScript, with hands-on) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 45 703 Tm (experience building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Built CineStream, a) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 45 692 Tm (short-film OTT platform with multimedia CRUD workflows and REST APIs, and contributed to the architecture,) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 45 681 Tm (documentation, and React frontend of a role-based Viva Management System. Eager to contribute to a growth-focused) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 45 670 Tm (development team.) Tj ET
+BT /F2 10.5 Tf 1 0 0 1 45 654 Tm (TECHNICAL SKILLS) Tj ET
+0.8 w 0.2 0.2 0.2 RG 45 650 m 550 650 l S
+BT /F2 8.5 Tf 1 0 0 1 45 637 Tm (  * MERN Stack:) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 120 637 Tm (MongoDB, Express.js, React.js, Node.js) Tj ET
+BT /F2 8.5 Tf 1 0 0 1 45 626 Tm (  * Languages:) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 120 626 Tm (JavaScript \(ES6+\), TypeScript, Python \(Basics\)) Tj ET
+BT /F2 8.5 Tf 1 0 0 1 45 615 Tm (  * Front-End:) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 120 615 Tm (React.js, React Hooks, HTML5, CSS3, Responsive Web Design) Tj ET
+BT /F2 8.5 Tf 1 0 0 1 45 604 Tm (  * Back-End:) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 120 604 Tm (Node.js, Express.js, REST APIs, JWT Authentication) Tj ET
+BT /F2 8.5 Tf 1 0 0 1 45 593 Tm (  * Databases:) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 120 593 Tm (MongoDB, MySQL) Tj ET
+BT /F2 8.5 Tf 1 0 0 1 45 582 Tm (  * Tools & Platforms:) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 135 582 Tm (Git, GitHub, Vercel, Render) Tj ET
+BT /F2 10.5 Tf 1 0 0 1 45 566 Tm (PROJECTS) Tj ET
+0.8 w 0.2 0.2 0.2 RG 45 562 m 550 562 l S
+BT /F2 9 Tf 1 0 0 1 45 549 Tm (Trip Advising Website) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 385 549 Tm (React.js, Node.js, MongoDB) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 538 Tm (*  Built a full-stack travel recommendation platform using React.js, Node.js, and MongoDB.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 528 Tm (*  Designed responsive pages for destination search, travel tips, and personalized trip suggestions.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 518 Tm (*  Implemented REST API integration for client-server data exchange using reusable React components.) Tj ET
+BT /F2 8 Tf 1 0 0 1 55 508 Tm (   Demo Link:) Tj ET
+BT /F1 8 Tf 1 0 0 1 110 508 Tm (https://trippilot-peach.vercel.app/) Tj ET
+BT /F2 9 Tf 1 0 0 1 45 495 Tm (Digital Project Evaluation & Viva Management System) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 410 495 Tm (React, TypeScript, UML) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 484 Tm (*  Planned the system architecture for a full-stack web application digitizing the final-year project evaluation and viva) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 474 Tm (   lifecycle, as part of a college development team.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 464 Tm (*  Defined module breakdowns for 4 user roles \(Students, Guides, Viva Panels, Admins\) across 5 core modules:) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 454 Tm (   project submission, mentorship requests, marks entry, viva scheduling, and result generation.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 444 Tm (*  Authored the project abstract and feasibility reports, and designed UML diagrams documenting system workflows.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 434 Tm (*  Collaborated with the team on the React frontend, aligning the UI with the defined module flows.) Tj ET
+BT /F2 9 Tf 1 0 0 1 45 421 Tm (Assignment Submission Platform) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 330 421 Tm (React.js, JavaScript \(ES6+\), HTML5, CSS3) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 410 Tm (*  Built a React.js web platform that replaces manual assignment handling with digital student submissions.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 400 Tm (*  Developed the assignment upload and submission interface, displaying assignment details and submission status.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 390 Tm (*  Implemented form handling and validation with dynamic rendering, managing application state with React Hooks) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 380 Tm (   and ES6+ event handling in a responsive UI of reusable components.) Tj ET
+BT /F2 8 Tf 1 0 0 1 55 370 Tm (   Demo Link:) Tj ET
+BT /F1 8 Tf 1 0 0 1 110 370 Tm (https://assignment-main-pearl.vercel.app/) Tj ET
+BT /F2 9 Tf 1 0 0 1 45 357 Tm (CineStream - Short Film OTT Platform) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 330 357 Tm (React.js, Node.js, Express.js, MongoDB) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 346 Tm (*  Built a full-stack short-film OTT platform on the MERN stack with user authentication and director/content uploads.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 336 Tm (*  Developed category/genre browsing, search, and detailed short-film pages for content discovery.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 326 Tm (*  Implemented multimedia CRUD workflows with video upload and streaming via REST APIs and MongoDB.) Tj ET
+BT /F2 8 Tf 1 0 0 1 55 316 Tm (   Demo Link:) Tj ET
+BT /F1 8 Tf 1 0 0 1 110 316 Tm (https://project-short-film.vercel.app/) Tj ET
+BT /F2 10.5 Tf 1 0 0 1 45 300 Tm (EDUCATION) Tj ET
+0.8 w 0.2 0.2 0.2 RG 45 296 m 550 296 l S
+BT /F2 9 Tf 1 0 0 1 45 283 Tm (Bachelor of Computer Applications \(BCA\)) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 320 283 Tm (Graduated: September 2026  |  CGPA: 6.98) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 45 272 Tm (Dr. MGR University) Tj ET
+BT /F2 10.5 Tf 1 0 0 1 45 256 Tm (TRAINING & CERTIFICATION) Tj ET
+0.8 w 0.2 0.2 0.2 RG 45 252 m 550 252 l S
+BT /F2 9 Tf 1 0 0 1 45 239 Tm (Full Stack Web Development \(MERN Stack\)) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 410 239 Tm (Duration: 6 Months) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 45 228 Tm (SLA Institute, Chennai) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 218 Tm (*  Comprehensive curriculum covering frontend \(HTML, CSS, JavaScript, React.js, TypeScript\) and backend \(Node.js,) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 208 Tm (   Express.js, MongoDB, REST API\) development.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 198 Tm (*  Building multiple real-world full-stack MERN projects with hands-on coding practice and mentor-guided sessions.) Tj ET
+BT /F1 8 Tf 1 0 0 1 55 188 Tm (*  Learning database integration with MongoDB, JWT authentication, and Vercel/Render deployment workflows.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000250 00000 n 
+0000004306 00000 n 
+0000004403 00000 n 
 trailer
-<< /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
+startxref
+4505
 %%EOF

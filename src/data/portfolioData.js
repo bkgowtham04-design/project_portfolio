@@ -2,68 +2,56 @@ export const portfolioData = {
   personal: {
     name: "Gowtham B",
     brandName: "GOWTHAM B",
-    role: "Full Stack Developer (MERN)",
-    headline: "Hi, I'm Gowtham B",
+    role: "Full Stack Developer (MERN) / Frontend Specialist",
+    headline: "Crafting Weightless Web Applications & Intuitive MERN Experiences",
     supportingText:
       "I build responsive, database-driven web applications using React.js, Node.js, Express.js, and MongoDB, with a focus on clean UI, practical solutions, and user-focused experiences.",
-    status: "Open to opportunities",
+    status: "Available for Full Stack & Frontend Roles",
     location: "Chennai, Tamil Nadu, India",
-    email: "bkgowtham04@gmail.com",
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
+    phone: "+91 8072907441",
+    github: "https://github.com/bkgowtham04-design",
+    linkedin: "https://www.linkedin.com/in/gowtham-b-749906376/",
+    portfolioUrl: "https://project-portfolio-phi-seven.vercel.app/",
     resumeUrl: "/Gowtham_B_Resume.pdf",
   },
 
   stats: [
-    { label: "Graduate", value: "BCA" },
-    { label: "Completed Projects", value: "5" },
+    { label: "BCA Graduate", value: "Dr. MGR Univ" },
+    { label: "Projects Completed", value: "5" },
     { label: "MERN Training", value: "6 Months" },
-    { label: "Core Specialization", value: "MERN" },
+    { label: "Core Specialization", value: "MERN Stack" },
   ],
 
   about: {
     heading: "About Me",
-    paragraphs: [
-      "I'm Gowtham B, a BCA graduate and aspiring Full Stack Developer specializing in the MERN stack. I have hands-on experience building responsive, database-driven web applications using React.js, Node.js, Express.js, MongoDB, and MySQL.",
-      "I enjoy turning ideas into functional applications and solving technical problems through practical, user-focused solutions. I'm a quick learner with a strong interest in modern web technologies and I'm looking forward to contributing to a growth-focused development team.",
+    subheading: "Where solid computer application foundations meet modern web engineering.",
+    narrative: [
+      "I'm Gowtham B, a BCA graduate from Dr. MGR University and an aspiring Full Stack Developer specializing in the MERN stack. I have hands-on experience building responsive, database-driven web applications using React.js, Node.js, Express.js, MongoDB, and MySQL.",
+      "I enjoy turning ideas into functional applications and solving technical problems through practical, user-focused solutions. I'm a quick learner with a strong interest in modern web technologies, fluid responsive interfaces, and weightless anti-gravity interactions, looking forward to contributing to a growth-focused development team.",
+    ],
+    pillars: [
+      {
+        title: "Academic Foundation",
+        desc: "BCA graduate from Dr. MGR University (CGPA: 6.98) with solid grounding in computer applications, databases, and software lifecycle.",
+        badge: "Dr. MGR Univ (6.98 CGPA)",
+      },
+      {
+        title: "MERN Stack Mastery",
+        desc: "6 Months intensive Full Stack training at SLA Institute Chennai covering React.js, Node.js, Express.js, MongoDB, and RESTful APIs.",
+        badge: "SLA Institute Certified",
+      },
+      {
+        title: "Anti-Gravity UI/UX",
+        desc: "Engineering weightless floating animations, soft shadows, intuitive micro-interactions, and 60fps responsive interfaces.",
+        badge: "Modern Frontend",
+      },
+      {
+        title: "Database-Driven Apps",
+        desc: "Designing robust NoSQL & SQL data models, automated result generation, and secure JWT-authenticated full-stack systems.",
+        badge: "Production Ready",
+      },
     ],
   },
-
-  whatIDo: [
-    {
-      title: "Frontend Development",
-      description:
-        "Building responsive and interactive user interfaces using React.js, HTML5, CSS3 and modern JavaScript.",
-      icon: "layout",
-    },
-    {
-      title: "Backend Development",
-      description:
-        "Developing REST APIs and server-side applications using Node.js and Express.js.",
-      icon: "server",
-    },
-    {
-      title: "Database Integration",
-      description:
-        "Working with MongoDB and MySQL to build database-driven applications.",
-      icon: "database",
-    },
-    {
-      title: "Full-Stack Development",
-      description:
-        "Connecting frontend, backend, APIs and databases to create complete web applications.",
-      icon: "layers",
-    },
-  ],
-
-  strengths: [
-    "Problem Solving",
-    "Quick Learning",
-    "Clean Development",
-    "Responsive Design",
-    "Database-driven Applications",
-    "User-focused Development",
-  ],
 
   skills: {
     languages: [
@@ -91,10 +79,10 @@ export const portfolioData = {
       { name: "MS Excel", tag: "Analysis" },
     ],
     fullstack: [
-      { name: "MongoDB", tag: "M" },
-      { name: "Express.js", tag: "E" },
-      { name: "React.js", tag: "R" },
-      { name: "Node.js", tag: "N" },
+      { name: "MongoDB", tag: "Database" },
+      { name: "Express.js", tag: "Backend" },
+      { name: "React.js", tag: "Frontend" },
+      { name: "Node.js", tag: "Server" },
     ],
   },
 
@@ -104,32 +92,41 @@ export const portfolioData = {
       projectNumber: "Project 01",
       title: "CineStream",
       subtitle: "Short Film OTT Platform",
-      tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
+      category: "MERN",
       categories: ["MERN", "React", "Full Stack"],
       featured: true,
       description:
-        "A full-stack short-film OTT platform built using the MERN stack, allowing users to authenticate, browse short films, search content, explore genres, and watch uploaded videos.",
-      features: [
-        "User Authentication",
-        "Movie Browsing",
-        "Categories / Genres",
-        "Search Functionality",
-        "Movie Details Page",
-        "Video Upload Flow",
-        "Video Playback Streaming",
-        "Director Content Upload",
-        "REST APIs Integration",
-        "Full CRUD Operations",
-        "MongoDB Database",
+        "A full-stack short-film OTT platform built using the MERN stack, allowing users to authenticate, browse short films, search content, explore genres, and watch uploaded videos with fluid video playback.",
+      highlights: [
+        "Secure User Authentication & Session Management",
+        "Dynamic Movie Browsing & Category Filtering",
+        "Fast Search Engine & Detailed Film Pages",
+        "Video Upload & Director Content Dashboard",
+        "Smooth Video Playback Streaming Engine",
+        "REST APIs & Full MongoDB CRUD Operations",
       ],
-      liveUrl: "https://example.com/cinestream-demo",
+      tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+      liveUrl: "https://project-short-film.vercel.app/",
       githubUrl: "https://github.com/example/cinestream",
     },
     {
       id: "viva-management",
       projectNumber: "Project 02",
       title: "Digital Project Evaluation & Viva Management System",
-      subtitle: "Full-Stack Academic Project",
+      subtitle: "Full-Stack Academic Management Platform",
+      category: ".NET & React",
+      categories: [".NET", "React", "Full Stack"],
+      featured: true,
+      description:
+        "A full-stack web application designed to digitize the final-year project evaluation and viva lifecycle, managing project submissions, mentorship, viva scheduling, marks, and result generation.",
+      roles: ["Student", "Guide", "Viva Panel", "Admin"],
+      highlights: [
+        "End-to-End Project Submission & Mentorship Requests",
+        "Viva Scheduling System & Real-Time Notifications",
+        "Marks Entry & Automated Grade Calculations",
+        "Role-Based JWT Authentication (Student, Guide, Panel, Admin)",
+        "Automated Excel Result Export using ClosedXML",
+      ],
       tech: [
         ".NET 8",
         "ASP.NET Core",
@@ -140,22 +137,6 @@ export const portfolioData = {
         "JWT",
         "ClosedXML",
       ],
-      categories: [".NET", "React", "Full Stack"],
-      featured: true,
-      description:
-        "A full-stack web application designed to digitize the final-year project evaluation and viva lifecycle, managing project submissions, mentorship, viva scheduling, marks, and result generation.",
-      roles: ["Student", "Guide", "Viva Panel", "Admin"],
-      features: [
-        "Project Submission Lifecycle",
-        "Mentorship Requests Workflow",
-        "Marks Entry & Validation",
-        "Viva Scheduling System",
-        "Automated Result Generation",
-        "Secure JWT Authentication",
-        "Automated Grade Calculation",
-        "Real-time Notification Triggers",
-        "Excel Result Export with ClosedXML",
-      ],
       liveUrl: "https://example.com/viva-system-demo",
       githubUrl: "https://github.com/example/viva-management",
     },
@@ -164,21 +145,20 @@ export const portfolioData = {
       projectNumber: "Project 03",
       title: "Trip Advising Website",
       subtitle: "Travel Recommendation Platform",
-      tech: ["React.js", "Node.js", "MongoDB", "REST APIs"],
+      category: "MERN",
       categories: ["MERN", "React", "Full Stack"],
       featured: false,
       description:
-        "A full-stack travel recommendation platform that helps users discover destinations, explore travel tips, and receive personalized trip suggestions.",
-      features: [
-        "Destination Search",
-        "Curated Travel Tips",
-        "Personalized Suggestions",
-        "Responsive UI across devices",
-        "REST APIs Connectivity",
-        "Reusable React Components",
-        "MongoDB Data Storage",
+        "A full-stack travel recommendation platform that helps users discover destinations, explore travel tips, and receive personalized trip suggestions with an intuitive, weightless user interface.",
+      highlights: [
+        "Destination Search & Location Filtering",
+        "Curated Travel Tips & Recommendations",
+        "Personalized Trip Suggestions",
+        "Responsive Device-Agnostic UI",
+        "REST APIs & MongoDB Integration",
       ],
-      liveUrl: "https://example.com/trip-advising",
+      tech: ["React.js", "Node.js", "MongoDB", "REST APIs", "Tailwind CSS"],
+      liveUrl: "https://trippilot-peach.vercel.app/",
       githubUrl: "https://github.com/example/trip-advising",
     },
     {
@@ -186,22 +166,19 @@ export const portfolioData = {
       projectNumber: "Project 04",
       title: "Assignment Submission Platform",
       subtitle: "Digital Assignment Management",
-      tech: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "React Hooks"],
+      category: "React App",
       categories: ["React", "Full Stack"],
       featured: false,
       description:
-        "A responsive web platform that allows students to submit assignments digitally and track assignment details and submission status.",
-      features: [
-        "Assignment Submission Portal",
-        "Detailed Assignment Briefs",
-        "Real-time Submission Status",
-        "Client-side Form Validation",
-        "Dynamic UI Rendering",
-        "React Hooks State Management",
-        "ES6+ Event Handling",
-        "Reusable Component Library",
+        "A responsive web platform that allows students to submit assignments digitally, view submission status, and track feedback through dynamic rendering and form validation.",
+      highlights: [
+        "Digital Assignment Submission Portal",
+        "Live Submission Status Tracking",
+        "Client-Side Form Validation & Dynamic Rendering",
+        "Reusable Component Architecture with React Hooks",
       ],
-      liveUrl: "https://example.com/assignment-platform",
+      tech: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "React Hooks"],
+      liveUrl: "https://assignment-main-pearl.vercel.app/",
       githubUrl: "https://github.com/example/assignment-platform",
     },
   ],
@@ -210,10 +187,10 @@ export const portfolioData = {
     degree: "Bachelor of Computer Applications (BCA)",
     institution: "Dr. MGR University",
     period: "2023 - 2026",
-    status: "Final Year",
+    status: "Final Year Graduate",
     cgpa: "6.98",
     description:
-      "Comprehensive computer science foundations covering web technologies, database management, software development life cycle, and application architecture.",
+      "Graduating in Computer Applications with a 6.98 CGPA. Core focus on web application development, database management systems, data structures, and software engineering methodologies.",
   },
 
   training: {
@@ -221,11 +198,11 @@ export const portfolioData = {
     institute: "SLA Institute, Chennai",
     duration: "6 Months",
     description:
-      "Rigorous hands-on development training under senior mentors covering end-to-end full stack architecture, RESTful web services, and deployment pipelines.",
+      "Intensive 6-month hands-on full-stack training under industry mentors. Built end-to-end applications, connected frontend and backend microservices, and deployed production web applications.",
     curriculum: [
       {
         category: "Frontend",
-        topics: ["HTML5", "CSS3", "JavaScript (ES6)", "React.js", "TypeScript"],
+        topics: ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "TypeScript"],
       },
       {
         category: "Backend",
@@ -243,13 +220,13 @@ export const portfolioData = {
   },
 
   journey: [
-    { step: "01", title: "BCA Degree", desc: "Foundational computer science, logic, and database systems at Dr. MGR University." },
-    { step: "02", title: "Web Fundamentals", desc: "HTML5, CSS3, modern JavaScript (ES6+), and responsive mobile-first layouts." },
-    { step: "03", title: "React.js", desc: "Component hierarchy, Virtual DOM, React Hooks, and single-page application design." },
-    { step: "04", title: "Node.js + Express", desc: "Server runtimes, middleware architecture, routing, and RESTful API endpoints." },
-    { step: "05", title: "MongoDB + REST APIs", desc: "Schema design with Mongoose, database CRUD, indexing, and data modeling." },
-    { step: "06", title: "MERN Stack Mastery", desc: "Full-stack integration, JWT authentication, state management, and CORS handling." },
-    { step: "07", title: "Real-world Projects", desc: "Engineered CineStream OTT, Academic Evaluation System, and Travel platforms." },
+    { step: "01", title: "BCA Degree", desc: "Computer applications foundation, algorithms, and databases at Dr. MGR University." },
+    { step: "02", title: "Web Fundamentals", desc: "Mastering HTML5, CSS3, modern JavaScript (ES6+), and responsive layouts." },
+    { step: "03", title: "React.js", desc: "Component architecture, Virtual DOM, Hooks, and single-page application state." },
+    { step: "04", title: "Node.js + Express", desc: "Building asynchronous backend services, routing, and RESTful APIs." },
+    { step: "05", title: "MongoDB + REST APIs", desc: "Schema design with Mongoose, database CRUD operations, and data modeling." },
+    { step: "06", title: "MERN Stack Mastery", desc: "6-month intensive training at SLA Institute Chennai connecting frontend & backend." },
+    { step: "07", title: "Real-world Projects", desc: "Architecting CineStream OTT, Digital Viva Evaluation, and Trip Advising platforms." },
     { step: "08", title: "Full Stack Developer", desc: "Ready to deliver high-quality, scalable code to a growth-focused engineering team." },
   ],
 };
